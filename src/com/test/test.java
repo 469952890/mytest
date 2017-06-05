@@ -8,6 +8,7 @@ import org.omg.CORBA.INITIALIZE;
  */
 public class test {
 	static mytest t;
+	private int git;
 	test(){
 		
 	}
