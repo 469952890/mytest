@@ -11,6 +11,7 @@
 			</arguments>
 		</buildCommand>
 	</buildSpec>
+	<test>aaaaaaaaaaaaaa</test>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
