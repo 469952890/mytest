@@ -1,0 +1,24 @@
+package com.test1;
+
+import com.test.f;
+
+public class o extends f {
+	 private final int bb;
+	 private int zz;
+	 private int x;
+	 private int xx;
+	 o(){
+		bb=1; 
+	 }
+     public static void main(String[] args) {
+		System.out.print(a);
+	}
+
+
+	@Override
+	protected void aaa() {
+		// TODO Auto-generated method stub
+		super.aaa();
+	}
+
+}
